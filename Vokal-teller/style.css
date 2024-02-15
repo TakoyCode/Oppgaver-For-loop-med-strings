@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(69, 69, 69);
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+button {
+    width: 60%;
+}
